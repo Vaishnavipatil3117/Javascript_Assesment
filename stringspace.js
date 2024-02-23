@@ -1,5 +1,5 @@
 const string = "Hello, I am vaishnavi patil ";
 
-const stringWithoutSpaces = string.split(' ').join('');
+const updatedstring = string.split(' ').join('');
 
-console.log(stringWithoutSpaces);
+console.log(updatedstring);
