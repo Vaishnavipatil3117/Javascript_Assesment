@@ -1,7 +1,7 @@
 const printMenu = day => {
     switch (day) {
         case '1':
-            console.log('Monday Menu: Chana Masala');
+            console.log('Monday Menu: Matan Biryani');
             break;
         case '2':
             console.log('Tuesday Menu: Chicken Biryani');
@@ -16,10 +16,10 @@ const printMenu = day => {
             console.log('Friday Menu: Masala Dosa');
             break;
         case '6':
-            console.log('Saturday Menu: Tandoori Mixed Grill');
+            console.log('Saturday Menu: Tandoor');
             break;
         case '7':
-            console.log('Sunday Menu: Rogan Josh');
+            console.log('Sunday Menu: Idali');
             break;
         default:
             console.log('Invalid day');
